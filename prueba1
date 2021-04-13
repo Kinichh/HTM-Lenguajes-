@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Practica 1</title>
+  </head>
+
+  <body>
+    <nav>
+      <a class="active" href="practica1.html">Pagina principal</a>
+    </nav>
+
+    <header>
+      <h1>Vinicio Javier Echeverria Garcia</h1>
+      <p>Facultad de Ingenieria</p>
+      <p>Universidad de San Carlos de Guatemala</p>
+      <p>Ingenieria Mecanica Electrica</p>
+    </header>
+
+    <h2>Carnet: 201403586</h2>
+
+    <ul>
+      <h3>Mis Caracteristicas</h3>
+      <li>Camino en circulos</li>
+      <li>Me gustan las matematicas</li>
+      <li>Lo que mas me gusta es dormir</li>
+      <li>Me gustan los motores</li>
+      <li>Si no tomo agua me muero</li>
+      <li>Ayudo a quien puedo</li>
+    </ul>
+
+    <img
+      class="imagen"
+      src="https://scontent.fgua8-1.fna.fbcdn.net/v/t1.18169-9/11235436_924993500855254_3297487701078754308_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=zHm8ZwjGwicAX8WhwZH&_nc_ht=scontent.fgua8-1.fna&oh=4e05db3098dc783c7dfc6e37d3be0604&oe=609A1BCE"
+      alt="Mifoto"
+      width="500" height="600"/>
+
+  </body>
+</html>
